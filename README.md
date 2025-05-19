@@ -1,1 +1,1 @@
-# Sangeetha.R
+# Sangeetha - Programming Test Language: Python 3 ## Instructions Each file corresponds to one problem: - Problem-1.py → Calculator using class - Problem-2.py → Generate a sequence of odd numbers - Problem-3.py → Conditional odd number generator - Problem-4.py → Dictionary of multiple counts
